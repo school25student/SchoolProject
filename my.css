@@ -1,0 +1,62 @@
+		body {
+			background: linear-gradient(to top,#70d0ff,#96ddff,#70d0ff);
+			background-color: #96ddff;
+		}
+		.main-menu li {
+			display: inline-block;
+			background-color: #00b9e8;
+			padding: 5px;
+			line-height: 18pt;
+			font-size: 18pt;
+			font-weight: bold;
+			border-style: outset;
+			border-color: #19d0ff;
+			color: #f2faff;
+
+		}
+		.main-menu ul {
+			text-align: center;
+		}
+
+		.main-menu h2 {
+			background-color: #00b9e8;
+			font-size: 40pt;
+			font-weight: bold;
+			font-family: arial,sans-serif;
+			display: inline-block;
+			align-items: center;
+			padding: 15px;
+			border-radius: 20px;
+			border-style: outset;
+			border-color: #19d0ff;
+			color: #f2faff;
+		}
+		.rozdil
+			{
+				text-align: center;
+			}
+		.main-menu h1 {
+			color: #f2faff;
+			background-color: #00b9e8;
+			font-size: 25pt;
+			margin-left: 228pt;
+			margin-right: 228pt;
+			display: inline-block;
+			padding: 15px;
+			border-radius: 22.8px;
+			border-style: inset;
+			border-color: #19d0ff;
+		}
+		.image {
+
+			display: inline-block;
+			text-align: center;
+		}
+		
+		.rozdil img {
+
+		background-color: #00b9e8;
+		border-radius: 50px;
+		border-color: #19d0ff;
+		border-style: inset;
+		}
